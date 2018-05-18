@@ -1,6 +1,15 @@
 # flutter_utils
 
-A new Flutter project.
+A new Flutter project just for practicing. It contains the implementation of some useful widgets.
+
+At this moment, it contains:
+- FloatingActionButton
+- SnackBar
+- Dialog
+- Drawer
+- Stepper
+- Tabbar
+
 
 ## Getting Started
 
